@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+export SHELL="/bin/bash"
+export acmeshell="/bin/bash"
+export BROWSER=qutebrowser
+export tabstop=8
+export TERM=dumb
+export PAGER=nobs
+
+plumber
+
+acme -a -f /mnt/font/'Hack Regular'/11a/font $1
