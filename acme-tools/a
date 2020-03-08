@@ -10,4 +10,4 @@ export PAGER=nobs
 fontsrv &
 plumber
 
-acme -a -f "/mnt/font/Hack-Regular/11a/font" $1
+acme -a -f "/mnt/font/Hack-Regular/12a/font" $1
