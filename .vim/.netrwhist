@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/chinmaya'
+let g:netrw_dirhist_6='/mnt/phonesys/bin'
+let g:netrw_dirhist_5='/home/chinmaya/code/src/ece391git'
+let g:netrw_dirhist_4='/home/chinmaya/code/src/ece391git/mp3/student-distrib'
+let g:netrw_dirhist_3='/home/chinmaya/code/src/ece391git/mp3'
+let g:netrw_dirhist_2='/home/chinmaya/code/src/ece391git'
+let g:netrw_dirhist_1='/home/chinmaya/code/src/github.com/chin123/gpa++/static'
+let g:netrw_dirhist_0='/home/chinmaya/code/src/ece391git/mp3/syscalls'
+let g:netrw_dirhist_9='/home/chinmaya/code/src/ece391git/mp3'
+let g:netrw_dirhist_8='/home/chinmaya/code/src/github.com/chin123/mirror-os'
